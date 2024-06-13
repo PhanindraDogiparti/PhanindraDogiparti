@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanindradogiparti&label=Profile%20views&color=0e75b6&style=flat" alt="phanindradogiparti" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics and Full Stack Developer**
+- 🌱 I’m currently learning **Data Analytics and Full Stack Developer.**
 
 - 💬 Ask me about **Front-End Developer ,Python , Power BI**
 
