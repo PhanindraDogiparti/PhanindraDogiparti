@@ -12,6 +12,7 @@
 - 📫 How to reach me **phanindravdogiparth@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/PhanindraDogiparti/Resume](https://github.com/PhanindraDogiparti/Resume)
+- 📄 Know about my experiences [https://github.com/PhanindraDogiparti/Resume](https://github.com/PhanindraDogiparti/Resume/blob/main/Phanindra%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
