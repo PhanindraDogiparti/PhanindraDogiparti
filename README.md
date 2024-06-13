@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phanindra Dogiparti</h1>
+<h3 align="center">A passionate Data Analyst and frontend developer</h3>
 <h3 align="center">Work Hard Till You Success!!!</h3>
 <img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <img align="right" >
