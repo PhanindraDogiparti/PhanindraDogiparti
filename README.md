@@ -105,24 +105,22 @@
 -->
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PhanindraDogiparti&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhanindraDogiparti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanindraDogiparti&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanindraDogiparti&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PhanindraDogiparti&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=PhanindraDogiparti&theme=tokyonight"/>
 </p>
-
----
 
 ### ⚡ Fun Fact
 <p align="center">
