@@ -85,21 +85,17 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PhanindraDogiparti&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+### 📊 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=phanindradogiparti&show_icons=true&theme=tokyonight" />
+</p>
+---
+
+### 📈 Top Languages 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindradogiparti&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanindraDogiparti&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PhanindraDogiparti&theme=tokyonight" />
-</p>
+### 🔥 GitHub Streak <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanindradogiparti&theme=tokyonight" /> </p>
