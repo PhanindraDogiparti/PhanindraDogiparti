@@ -98,4 +98,7 @@
 
 ---
 
-### 🔥 GitHub Streak <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanindradogiparti&theme=tokyonight" /> </p>
+### 🔥 GitHub Streak 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanindradogiparti&theme=tokyonight" /> 
+</p>
