@@ -65,18 +65,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhanindraDogiparti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PhanindraDogiparti&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
-## 📈 Top Languages
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanindraDogiparti&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhanindraDogiparti&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PhanindraDogiparti&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=PhanindraDogiparti&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
