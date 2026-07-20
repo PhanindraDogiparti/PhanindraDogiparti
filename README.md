@@ -1,96 +1,91 @@
 <h1 align="center">Hi 👋, I'm Phanindra Dogiparti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Frontend+Developer;Python+%7C+Java+%7C+SQL;ML+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Frontend+Developer;Python+%7C+Java+%7C+SQL;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h3 align="center">💡 Work Hard Until You Succeed 💪</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🌱 Learning **Data Analytics & Full Stack Development**
-- 💬 Ask me about **Frontend, Python, Java, Machine Learning**
-- 📫 Reach me: **phanindravdogiparth@gmail.com**
-- 📄 [My Resume](https://github.com/PhanindraDogiparti/Resume/blob/main/Phanindra%20Resume.pdf)
+- 🌱 Currently learning **Data Analytics & Full Stack Development**
+- 💬 Ask me about **Python, Java, SQL, Frontend Development & Machine Learning**
+- 📫 Email: **phanindravdogiparth@gmail.com**
+- 📄 [Resume](https://github.com/PhanindraDogiparti/Resume/blob/main/Phanindra%20Resume.pdf)
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/phanindra-dogiparti" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 </p>
 
 ---
 
-## 🚀 Languages
+# 💻 Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 ---
 
-## 🗄️ Database
+# 🗄️ Database
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/><br>SSMS
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/data-configuration.png"/><br>SSIS
-</td>
-</tr>
-</table>
+<p align="left">
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSIS-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PhanindraDogiparti&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhanindraDogiparti&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhanindraDogiparti&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=PhanindraDogiparti&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📌 Featured Skills
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PhanindraDogiparti&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 <p align="center">
 💻 I love building projects that solve real-world problems 🚀
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
 </p>
